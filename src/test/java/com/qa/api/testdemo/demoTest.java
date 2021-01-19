@@ -8,5 +8,9 @@ public class demoTest {
     public void demotestcase1 () {
     	System.out.println("demo test java");
     }
+	
+	 public void demotestcase2 () {
+	    	System.out.println("demo test javais so good ");
+	    }
 
 }
